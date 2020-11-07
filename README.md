@@ -1,6 +1,6 @@
 # google-dialogflow
  Notes taken learning Hands-on-google-dialogflow Udemy course. <br/>
- Hands on practice using
+ Hands on practice with google dialogflow console, Heroku and writing simple python app.
  
 ## Index
 
