@@ -6,6 +6,17 @@
 
 [10000 ft overview](10000ft_Overview.md)
 
+## What i learned from this course ?
+- Creating low code chatbot using google dialogflow
+- How to integrate webhook API calls with an externally deployed service on heroku
+- Created a mini-project (heroku-weatherbot)
+- Create an external integration to other dialogflow supported product (slack) using OAuth2 and API keys
+
+## Mini project
+- Refer the repo heroku-weatherbot
+- This is a simple python webhook written with Flask framework and deployed to heroku platform
+- Sadly, the dialogflow intents, entitites and the fulfillment changes are tied to my gmail account and not available for public view.
+
 ### Google DialogFlow notes
 
 * api.ai
